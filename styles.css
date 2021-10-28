@@ -14,6 +14,7 @@
  .tilde ~ #T{             /* here class selector and a combinator tilde(to apply for general elements styling) is used*/
     color: blue;
 }
+.S p{ color:yellow; }
 /* universal selectors , class selectors and  id selectors done below */
 
 
